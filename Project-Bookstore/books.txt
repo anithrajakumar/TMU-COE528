@@ -1,0 +1,18 @@
+Java Programming,1500.0
+Data Structures and Algorithms,8500.0
+Introduction to Computer Science,200.0
+Web Development with Python,4100.0
+Machine Learning with Java,9800.0
+C++ Programming,1200.0
+Computer Networks,6300.0
+Database Systems,3500.0
+Artificial Intelligence,8100.0
+Software Engineering,7200.0
+Operating Systems,2500.0
+Computer Graphics,5500.0
+Human-Computer Interaction,4600.0
+Discrete Mathematics,100.0
+Book 1,200.0
+Book 2,500.0
+Book 3,50.0
+Book 1 ,12.0

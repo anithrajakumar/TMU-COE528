@@ -1,0 +1,24 @@
+JohnDoe, password123,500
+JaneDoe, password456,2000
+BobSmith, password789,1000
+AliceJohnson, password012,8000
+MikeWilliams, password345,3000
+EmilyDavis, password678,4000
+SarahTaylor, password901,2500
+KevinWhite, password234,6000
+RebeccaBrown, password567,3500
+DavidLee, password890,4500
+SophiaGarcia, password123,7000
+OliviaMartinez, password456,9000
+MasonHernandez, password789,10000
+IsabellaRodriguez, password012,1500
+jordon,jordon,620
+killer,killer,0
+killer,cam,540000
+jordon,jaquavious,0
+sun jin,woo,0
+Anith,Anith,9500
+Jane,Jane,0
+jason,jason,0
+jason,jah,0
+MsonHernandez,murray,0
